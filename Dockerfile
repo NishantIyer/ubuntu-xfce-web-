@@ -73,7 +73,7 @@ LABEL \
     any.accetto.tags="ubuntu, xfce, vnc, novnc, firefox" \
     version-sticker="${ARG_VERSION_STICKER}" \
     org.label-schema.vcs-ref="${ARG_VCS_REF}" \
-    org.label-schema.vcs-url="https://github.com/accetto/ubuntu-vnc-xfce-firefox"
+    org.label-schema.vcs-url="https://github.com/NishantIyer/ubuntu-xfce-web-"
 
 ENV \
   REFRESHED_AT=${ARG_REFRESHED_AT} \
